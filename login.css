@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(103, 99, 108);
+    
+}
+
+.top-div{
+    margin:auto;
+    text-align: center;
+    border: 2px solid cadetblue;
+    background-color: rgb(48, 71, 71);
+    padding: 20px;
+    width: 500px;
+    margin-top: 150px;
+
+}
+p{
+    font-size: 50px;
+}
+credentials{
+    padding: 10px;
+    font: size 10px;
+}
+#username-input{
+    margin: 30px;
+}
+#sign-in-button{
+    margin: top 30px;
+}
